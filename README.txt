@@ -1,3 +1,5 @@
+## Last version to come soon ##
+
 In this notebook we design simple neural networks from scratch in order to compute European call price.
 
 We use the Black & Scholes framework and we use the closed form solution provided by the model as a benchmark for training/evaluating our networks.
