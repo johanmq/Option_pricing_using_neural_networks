@@ -1,4 +1,4 @@
-## Last version to come soon ##
+## Last version with notable improvements to come soon ##
 
 In this notebook we design simple neural networks from scratch in order to compute European call price.
 
